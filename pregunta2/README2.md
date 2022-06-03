@@ -36,7 +36,7 @@ Random_bits, genera los bits (16,32,64) de forma aleatoria retornando "n" el cua
 
 ![image](https://user-images.githubusercontent.com/90937895/171772991-df748d9f-b432-4f5e-8c3f-dcb2ddb8d253.png)
 
-Random_primos, retorna la lista de los primos de (16,32,64) bits
+Random_primos, retorna la lista de los primos de (16,32,64) bits. En nuestro caso hicimos uso de un S de 40, pues es el tiempo mas optimo que vimos por conveniente.
 
 - Funcion imprimir
 
