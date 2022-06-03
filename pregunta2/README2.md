@@ -28,7 +28,7 @@ MILLER_RABIN, es el test de primalidad para determinar si un número dado es pri
 
 - Funcion Random_bits
 
-![image](https://user-images.githubusercontent.com/90937895/171772941-771e5945-6c8f-43f3-b468-33fd3abdfa63.png)
+![image](https://user-images.githubusercontent.com/90937895/171788657-ac8dd91c-5ac7-4cf1-9498-20b4479d89ac.png)
 
 Random_bits, genera los bits (16,32,64) de forma aleatoria retornando "n" el cual seria el menor o mayor valor que podria tomar 
 
