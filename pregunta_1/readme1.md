@@ -36,6 +36,8 @@ MILLER_RABIN, es el test de primalidad para determinar si un número dado es pri
 
 ![image](https://user-images.githubusercontent.com/90937895/171783371-f83a1f2b-2ea8-4c76-8425-0e4cc59af6a6.png)
 
+Iniciamos con 100 que es el menor numero de 3 digitos y termina con el 99999 que es el mayor numero de 5 digitos. Luego se busca el mayor o igual numero que seria el numero impar, ya que solamente los impares tienen la posibilidad de ser numeros primos y luego recorrera de dos en dos buscando los posibles primos.
+
 - Output
 
 ![image](https://user-images.githubusercontent.com/101947482/171771179-5641c5da-4af9-4a1b-98ce-4a820ae7d66a.png)
