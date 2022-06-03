@@ -50,4 +50,5 @@ imprimir, imprime los numeros primos encontrados.
 
 - OUTPUT
 
-![image](https://user-images.githubusercontent.com/90937895/171773227-279f7c65-2752-4551-a96a-86980e7a3387.png)
+![image](https://user-images.githubusercontent.com/90937895/171782805-5575ce52-d4d6-4563-ac2e-758fd7acae9d.png)
+
