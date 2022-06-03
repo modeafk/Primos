@@ -3,10 +3,10 @@
 
 #INTEGRANTES:
 
--Marcelo Torres Acuña
+- Marcelo Torres Acuña
 
--Jhon Berly Taype Alccaccahua
+- Jhon Berly Taype Alccaccahua
 
--Brian Bermudez Navarro
+- Brian Bermudez Navarro
 
 Cada pregunta consta con su README.
