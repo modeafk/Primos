@@ -24,19 +24,19 @@ es_compuesto retorna si un numero es compuesto (True) o no (False), haciendo uso
 
 ![image](https://user-images.githubusercontent.com/90937895/171772896-e7c47f6d-f146-4da4-b927-5456c4e3390d.png)
 
-MILLER_RABIN, retorna True o False 
+MILLER_RABIN, es el test de primalidad para determinar si un número dado es primo, retornando True o False. Teniendo el parametro "s" el cual indica la precision de la prueba.
 
 - Funcion Random_bits
 
 ![image](https://user-images.githubusercontent.com/90937895/171772941-771e5945-6c8f-43f3-b468-33fd3abdfa63.png)
 
-Random_bits
+Random_bits, genera los bits (16,32,64) de forma aleatoria retornando "n" el cual seria el menor o mayor valor que podria tomar 
 
 - Funcion Random_primos
 
 ![image](https://user-images.githubusercontent.com/90937895/171772991-df748d9f-b432-4f5e-8c3f-dcb2ddb8d253.png)
 
-Random_primos
+Random_primos, retorna la lista de los primos de (16,32,64) bits
 
 - Funcion imprimir
 
