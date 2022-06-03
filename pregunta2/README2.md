@@ -11,27 +11,38 @@ Funciones Usadas:
 - Funcion EXPMOD
 
 ![image](https://user-images.githubusercontent.com/90937895/171772814-ee3eb34b-74dc-4e84-8601-ee4861836e0a.png)
-Esta funcion nos retorna el residuo "r" de elevar una base "a" a un exponente "x" y seguidamente aplicarle modulo "n"
+
+EXPMOD nos retorna el residuo "r" de elevar una base "a" a un exponente "x" y seguidamente aplicarle modulo "n"
 
 - Funcion es_compuesto
 
 ![image](https://user-images.githubusercontent.com/90937895/171772852-2e1a27a5-75bb-48a3-93e9-876cc01fc9b9.png)
 
+es_compuesto retorna si un numero es compuesto (True) o no (False), haciendo uso tambien de la funcion EXPMOD. Pues si EXPMOD retorna 1 o el numero-1, dicho numero no sera compuesto.
+
 - Funcion MILLER_RABIN
 
 ![image](https://user-images.githubusercontent.com/90937895/171772896-e7c47f6d-f146-4da4-b927-5456c4e3390d.png)
+
+MILLER_RABIN
 
 - Funcion Random_bits
 
 ![image](https://user-images.githubusercontent.com/90937895/171772941-771e5945-6c8f-43f3-b468-33fd3abdfa63.png)
 
+Random_bits
+
 - Funcion Random_primos
 
 ![image](https://user-images.githubusercontent.com/90937895/171772991-df748d9f-b432-4f5e-8c3f-dcb2ddb8d253.png)
 
+Random_primos
+
 - Funcion imprimir
 
 ![image](https://user-images.githubusercontent.com/90937895/171773009-5e852b47-7c24-4895-9219-8619a9c8b265.png)
+
+imprimir, imprime los numeros primos encontrados.
 
 - MAIN
 
