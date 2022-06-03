@@ -9,6 +9,7 @@
 Funciones Usadas:
 
 - Funcion EXPMOD
+
 ![image](https://user-images.githubusercontent.com/90937895/171772814-ee3eb34b-74dc-4e84-8601-ee4861836e0a.png)
 
 - Funcion es_compuesto
