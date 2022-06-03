@@ -44,7 +44,7 @@ def MILLER_RABIN(n, s):
 
 def Random_bits(b):
   n=(pow(2,b-1)-1)
-  n=random.randint(0,b)
+  n=random.randint(0,n)
   m=pow(2,b-1)+1
   n=n | m
   return n
