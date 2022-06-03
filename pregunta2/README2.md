@@ -24,7 +24,7 @@ es_compuesto retorna si un numero es compuesto (True) o no (False), haciendo uso
 
 ![image](https://user-images.githubusercontent.com/90937895/171772896-e7c47f6d-f146-4da4-b927-5456c4e3390d.png)
 
-MILLER_RABIN
+MILLER_RABIN, retorna True o False 
 
 - Funcion Random_bits
 
